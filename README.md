@@ -176,7 +176,7 @@ Rather than reporting historical activity, the dashboard identifies where operat
 </tr>
 <tr>
 <td>
-<<img width="1150" height="775" alt="Microsoft Certified PowerBI Data Analyst_page-0001" src="https://github.com/user-attachments/assets/f0c251fd-2a99-4ef6-9a27-38c3bf7cb3a9" />
+<<img width="1839" height="838" alt="Microsof Certified Picture Good Quality " src="https://github.com/user-attachments/assets/431e4da9-9287-46ca-b3bb-efa65d009c3d" />
 
 </td>
 <td>
