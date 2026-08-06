@@ -1,6 +1,6 @@
 # End-to-End Supply Chain Intelligence for Performance, Profitability and Risk Analytics
 ## Executive Summary
-This project analyzes over 180,000 global supply chain transactions spanning three years to evaluate whether commercial demand is being converted into reliable operational execution and sustainable profitability.
+This project analysed over 180,000 global supply chain transactions spanning three years to evaluate whether commercial demand is being converted into reliable operational execution and sustainable profitability.
 
 Across the period reviewed, the company generated $36.45M in sales, processed more than 64,000 orders, and produced approximately $4M in profit, resulting in an 11% profit margin. The business is commercially active, but the dashboard reveals a major execution gap: 55% of deliveries were late, compared with only 45% delivered on time.
 
